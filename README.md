@@ -48,7 +48,9 @@
 ## Final Conclusion
 
 The Ecommerce Sales Dashboard successfully provides a clear and interactive view of overall business performance. Using Power BI, DAX measures, filters, slicers, and visual analytics, the dashboard helps analyze sales trends, customer behavior, profitable products, and regional performance.
+
 The project demonstrates how data visualization can support data-driven decision-making by identifying high-performing categories, top customers, preferred payment methods, and monthly profit trends.
+
 Overall, this dashboard improves business analysis, performance monitoring, and insight generation through an easy-to-understand and visually appealing interface.
 
 
