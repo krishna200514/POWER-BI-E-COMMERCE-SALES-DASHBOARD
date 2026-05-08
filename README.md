@@ -23,6 +23,7 @@
 <img width="2000" height="900" alt="Sales Dashboard" src="https://raw.githubusercontent.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/main/DASHBOARD.png" />
 ## Project Process
 
+
 * Collected and understood the ecommerce sales dataset.
 * Cleaned and transformed the data using Power BI Power Query.
 * Created relationships and data modeling for proper analysis.
@@ -43,5 +44,11 @@
 * Monthly profit analysis helped identify profitable and loss-making periods.
 * The Average Order Value (AOV) was approximately ₹876 per order.
 * The dashboard helps analyze sales performance, customer behavior, and business profitability.
+
+## Final Conclusion
+
+The Ecommerce Sales Dashboard successfully provides a clear and interactive view of overall business performance. Using Power BI, DAX measures, filters, slicers, and visual analytics, the dashboard helps analyze sales trends, customer behavior, profitable products, and regional performance.
+The project demonstrates how data visualization can support data-driven decision-making by identifying high-performing categories, top customers, preferred payment methods, and monthly profit trends.
+Overall, this dashboard improves business analysis, performance monitoring, and insight generation through an easy-to-understand and visually appealing interface.
 
 
