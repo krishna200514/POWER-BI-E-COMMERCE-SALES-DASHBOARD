@@ -21,11 +21,17 @@
 
 ## DASHBOARD 
 <img width="2000" height="900" alt="Sales Dashboard" src="https://raw.githubusercontent.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/main/DASHBOARD.png" />
-### Tools & Technologies Used
- Power BI
- DAX
- Data Visualization
- Data Analysis
+## Project Process
+* Collected and understood the ecommerce sales dataset.
+* Cleaned and transformed the data using Power BI Power Query.
+* Created relationships and data modeling for proper analysis.
+* Built DAX measures for KPIs such as Total Sales, Profit, Quantity, and Average Order Value (AOV).
+* Designed interactive visualizations including bar charts, donut charts, KPI cards, and slicers.
+* Applied conditional formatting to highlight profit and loss trends.
+* Added filters and slicers for dynamic dashboard interaction.
+* Analyzed business insights from sales, customers, payment methods, and product performance.
+* Designed the dashboard using a modern dark theme for better visualization and user experience.
+
 
 #### Business Insights
 
