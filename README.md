@@ -21,7 +21,7 @@
 
 ## DASHBOARD 
 <img width="2000" height="900" alt="Sales Dashboard" src="https://raw.githubusercontent.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/main/DASHBOARD.png" />
-#### Tools & Technologies Used
+### Tools & Technologies Used
 Power BI
 DAX
 Data Visualization
