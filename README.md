@@ -20,8 +20,7 @@
 * How can business performance be monitored using KPIs and visual analytics?
 
 ## DASHBOARD 
-<img width="1668" height="500" alt=" Sales Dashboard " src=(https://github.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/blob/main/DASHBOARD.png).png/>
-
+<img width="1668" height="500" alt="Sales Dashboard" src="https://raw.githubusercontent.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/main/DASHBOARD.png" />
 #### Tools & Technologies Used
 Power BI
 DAX
