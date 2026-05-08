@@ -1,6 +1,10 @@
 # POWER BI E-COMMERCE SALES DASHBOARD
 ## An interactive Power BI dashboard created to analyze ecommerce sales performance, customer behavior, profit trends, and payment preferences.
-### The dashboard provides business insights through KPI cards, category-wise sales analysis, state-wise revenue comparison, monthly profit trends, top customer analysis, and profitable product identification.
+#### The dashboard provides business insights through KPI cards, category-wise sales analysis, state-wise revenue comparison, monthly profit trends, top customer analysis, and profitable product identification.
+
+## Dataset used
+- <a href=https://github.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/blob/main/Details.csv>Details Dataset</a>
+- <a href=https://github.com/krishna200514/POWER-BI-E-COMMERCE-SALES-DASHBOARD/blob/main/Orders.csv>Orders Dataset</a>
 
 #### Dashboard Features
 KPI Cards for Total Sales, Profit, Orders, and AOV
@@ -27,3 +31,5 @@ Data Analysis
 * Monthly profit analysis helped identify profitable and loss-making periods.
 * The Average Order Value (AOV) was approximately ₹876 per order.
 * The dashboard helps analyze sales performance, customer behavior, and business profitability.
+
+
